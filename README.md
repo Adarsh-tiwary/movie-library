@@ -1,6 +1,5 @@
 # movie-library
 movie-library-backend/
-
 ├── app.py
 
 ├── config.py
